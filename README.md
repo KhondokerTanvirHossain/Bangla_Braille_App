@@ -1,9 +1,9 @@
-# Benglai_Brail_App
-This is an android app with a arduino and 12 vibrator that can read any bengali sentence you type and  vibrate according to the brail code of the sentences.
+# Benglai_Braille_App
+This is an android app with a arduino and 12 vibrator that can read any bengali sentence you type and  vibrate according to the braille code of the sentences.
 
 ## Features
-* Any bengali and English Sentence can be translated into brail
-* 12 vibrator for there are 12 element in bengali brail
+* Any bengali and English Sentence can be translated into braille
+* 12 vibrator for there are 12 element in bengali braille
 * Placement of all the vibrator is in comfortable position on the hand
 
 ## Focus Points
